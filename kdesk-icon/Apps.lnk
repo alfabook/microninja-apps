@@ -1,0 +1,12 @@
+table Icon
+  Caption:
+  AppID: microninja-apps
+  Command: /usr/bin/microninja-apps
+  Singleton: true
+  Icon: /usr/share/microninja-desktop/icons/apps.png
+  IconHover: /usr/share/microninja-desktop/icons/apps-hover.png
+  HoverXOffset: 0
+  Relative-To: grid
+  X: 3
+  Y: 0
+end

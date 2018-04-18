@@ -1,0 +1,12 @@
+bin/* usr/bin/
+microninja_apps usr/lib/python2.7/dist-packages/
+media usr/share/microninja-apps/
+#apps/*.app usr/share/applications/
+#apps/icons/* usr/share/icons/microninja/66x66/apps/
+books usr/share/microninja-apps/
+
+#kdesk-icon/Apps.lnk usr/share/microninja-desktop/kdesk/kdesktop/
+#kdesk-icon/*.png usr/share/microninja-desktop/icons/
+
+microninja-world-hook/* usr/lib/python2.7/dist-packages/microninja_world/hooks/
+po/it/messages_python_it.mo /usr/share/locale/microninja/microninja-apps

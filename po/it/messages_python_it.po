@@ -1,0 +1,177 @@
+# Italian translations for PACKAGE package.
+# Copyright (C) 2017 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Marco Lorrai <microninja@microninja.me>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-11 11:39+0100\n"
+"PO-Revision-Date: 2017-12-11 11:57+0100\n"
+"Last-Translator: Marco Lorrai <microninja@microninja.me>\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: microninja_apps/UIElements.py:50
+msgid "Insert the system password:"
+msgstr "Inserisci la password di sistema:"
+
+#: microninja_apps/UIElements.py:64
+msgid "Incorrect password. Try again?"
+msgstr "La password non è corretta. Puoi riprovare?"
+
+#: microninja_apps/UIElements.py:66 microninja_apps/AppGrid.py:589
+#: microninja_apps/AppGrid.py:634 microninja_apps/AppInstaller.py:124
+msgid "YES"
+msgstr "SI"
+
+#: microninja_apps/UIElements.py:69
+msgid "CANCEL"
+msgstr "ANNULLA"
+
+#: microninja_apps/UIElements.py:86
+msgid "Try to insert your password again:"
+msgstr "Reinserisci la password:"
+
+#: microninja_apps/AppGrid.py:60
+msgid "system"
+msgstr "sistema"
+
+#: microninja_apps/AppGrid.py:62
+msgid "internet"
+msgstr "internet"
+
+#: microninja_apps/AppGrid.py:64
+msgid "coding"
+msgstr "coding"
+
+#: microninja_apps/AppGrid.py:66
+msgid "games"
+msgstr "giochi"
+
+#: microninja_apps/AppGrid.py:68
+msgid "tools"
+msgstr "strumenti"
+
+#: microninja_apps/AppGrid.py:279
+msgid "Remove from desktop"
+msgstr "Rimuovi dal desktop"
+
+#: microninja_apps/AppGrid.py:282
+msgid "Add to desktop"
+msgstr "Aggiungi al desktop"
+
+#: microninja_apps/AppGrid.py:433 microninja_apps/AppInstaller.py:145
+msgid "Install {}"
+msgstr "Installa {}"
+
+#: microninja_apps/AppGrid.py:453
+msgid "Error"
+msgstr "Errore"
+
+#: microninja_apps/AppGrid.py:454
+msgid "Cannot launch application."
+msgstr "Non posso lanciare l'applicazione."
+
+#: microninja_apps/AppGrid.py:497
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: microninja_apps/AppGrid.py:585
+msgid "Remove {}"
+msgstr "Rimuovi {}"
+
+#: microninja_apps/AppGrid.py:586
+msgid ""
+"This application will be uninstalled and removed from the list. Do you want "
+"to proceed?"
+msgstr ""
+"Questa applicazione verrà disinstallata e rimossa dalla lista. Vuoi "
+"procedere?"
+
+#: microninja_apps/AppGrid.py:592 microninja_apps/AppGrid.py:637
+#: microninja_apps/AppInstaller.py:127
+msgid "NO"
+msgstr "NO"
+
+#: microninja_apps/AppGrid.py:606
+msgid "Uninstall {}"
+msgstr "Disinstalla {}"
+
+#: microninja_apps/AppGrid.py:631
+msgid "Update {}"
+msgstr "Aggiorna {}"
+
+#: microninja_apps/AppGrid.py:632
+msgid "This application will be updated. Do you want to proceed?"
+msgstr "L'applicazione verrà aggiornata. Continuare?"
+
+#: microninja_apps/Media.py:25
+msgid "Multimedia files directory not found."
+msgstr "La directory dei file multimediali non è stata trovata."
+
+#: microninja_apps/MainWindow.py:108
+msgid "Add more applications to your desktop"
+msgstr "Aggiungi applicazioni al desktop"
+
+#: microninja_apps/MainWindow.py:109
+msgid ""
+"Press the '+' button right to the application name to make it appear in the "
+"desktop. To remove it, press 'x'. "
+msgstr ""
+"Clicca sul bottone '+' alla destra del nome dell'applicazione per farla "
+"comparire nel desktop. Per rimuoverla, premi 'x'. "
+
+#: microninja_apps/MainWindow.py:113
+msgid "OK, GO"
+msgstr "OK, VAI"
+
+#: microninja_apps/AppInstaller.py:99
+msgid "Cannot download application"
+msgstr "Non posso scaricare l'applicazione"
+
+#: microninja_apps/AppInstaller.py:119
+msgid "{} is already installed"
+msgstr "{} è già installata"
+
+#: microninja_apps/AppInstaller.py:120
+msgid "Do you want to update it?"
+msgstr "Vuoi aggiornarla?"
+
+#: microninja_apps/AppInstaller.py:168
+msgid "Done!"
+msgstr "Fatto!"
+
+#: microninja_apps/AppInstaller.py:169
+msgid " successfully installed! "
+msgstr " installata con successo! "
+
+#: microninja_apps/AppInstaller.py:170
+msgid "Find it in the application launcher."
+msgstr "Trova l'applicazione sul launcher."
+
+#: microninja_apps/AppInstaller.py:172
+msgid "Installation failed"
+msgstr "Installazione fallita"
+
+#: microninja_apps/AppInstaller.py:173
+msgid " cannot be installed "
+msgstr " non può essere installata "
+
+#: microninja_apps/AppInstaller.py:174
+msgid "right now. Please check if the device is connected "
+msgstr "ora. Per favore controlla se Microninja è connesso "
+
+#: microninja_apps/AppInstaller.py:175
+msgid "to internet and if there is enough free space in "
+msgstr "ad internet e se c'è spazio a sufficienza "
+
+#: microninja_apps/AppInstaller.py:176
+msgid "your sd card."
+msgstr "nella tua sd card."
